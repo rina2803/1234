@@ -12,7 +12,14 @@ ka mihevera tena
 ALEFA BAREA!# 1234
  master
 test
-<<<<<< dev3
+dev7
+Ry Tanindrazanay malala ô !
+Irinay mba hanompoana anao.
+Ny tena sy fo fanahy anananay,
+'Zay sarobidy sy mendrika tokoa.
+
+=======
+ dev3
 Ry tanindrazanay malala ô
 Irinay mba hitahiana anao,
 Ka ilay Nahary izao tontolo izao
@@ -28,4 +35,5 @@ BARAKAY AMIN'IZAY...
 
 nena zany ito eeh
 master
->>> master
+ master
+ master
